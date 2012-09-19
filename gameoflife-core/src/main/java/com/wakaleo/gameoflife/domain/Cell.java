@@ -1,5 +1,5 @@
 package com.wakaleo.gameoflife.domain;
-
+// this is another comment to kick in Jenkins build
 public enum Cell {
     LIVE_CELL("*"), DEAD_CELL(".");
 
